@@ -16,4 +16,4 @@ Or execute `./how_to_reproduce.sh`.
 ## Others
 
 * sbt-native-packager also cause same warning, but sbt-sonatype is no problem
-* with sbt 1.2.0, no warning
+* with sbt 1.1.6, no warning
