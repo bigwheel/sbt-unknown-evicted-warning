@@ -19,3 +19,6 @@ Or execute `./how_to_reproduce.sh`.
 1. With sbt 1.2.0, warning occured
 1. With sbt-sonatype, no warnings
 1. With sbt-native-packager, warning occured
+
+* I seeks debug log, but cannot find warning reason.
+* I also test in https://github.com/hseeberger/scala-sbt, but there was same result.
