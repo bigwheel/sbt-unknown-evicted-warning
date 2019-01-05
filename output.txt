@@ -1,13 +1,12 @@
 [info] Loading global plugins from /home/kbigwheel/.sbt/1.0/plugins
-[info] Loading project definition from /home/kbigwheel/code/_investigation/2019-01-04-evicted-warning-investigation-3/plugins/project/project
-[info] Loading settings for project plugins-build from test.sbt ...
-[info] Loading project definition from /home/kbigwheel/code/_investigation/2019-01-04-evicted-warning-investigation-3/plugins/project
-[info] Updating ProjectRef(uri("file:/home/kbigwheel/code/_investigation/2019-01-04-evicted-warning-investigation-3/plugins/project/"), "plugins-build")...
+[info] Loading project definition from /home/kbigwheel/proj-name/project/project
+[info] Loading settings for project proj-name-build from test.sbt ...
+[info] Loading project definition from /home/kbigwheel/proj-name/project
+[info] Updating ProjectRef(uri("file:/home/kbigwheel/proj-name/project/"), "proj-name-build")...
 [info] Done updating.
 [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
-[info] Loading settings for project plugins from build.sbt ...
-[info] Set current project to plugins (in build file:/home/kbigwheel/code/_investigation/2019-01-04-evicted-warning-investigation-3/plugins/)
-[success] Total time: 0 s, completed 2019/01/05 13:27:12
+[info] Set current project to proj-name (in build file:/home/kbigwheel/proj-name/)
+[success] Total time: 0 s, completed 2019/01/05 13:33:10
 [info] Updating ...
 [info] Done updating.
-[success] Total time: 0 s, completed 2019/01/05 13:27:12
+[success] Total time: 0 s, completed 2019/01/05 13:33:10
