@@ -10,7 +10,8 @@ however, evicted command doesn't show anything.
 
 ## How to reproduce
 
-Select 1.2.7 or higher in build.properties and add sbt-pgp plugin in project/test.sbt
+Select 1.2.7 or higher in build.properties and add sbt-pgp plugin in project/test.sbt.
+Or execute 'how_to_reproduce.sh'.
 
 ## Others
 
